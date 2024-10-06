@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "936413195bd293ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b598f5950ba3ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce01dee9733a096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fundamentals/data-types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b550a8d299d2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fundamentals/conversion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b1ca8934e949da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "implicit-typing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e46c9fec8296b8d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READMEd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30739f77a997dc86",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c68c06dabb00b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731acc15e819a0f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1dd727957275e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "405f05e3dbcc8f62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88cc49f253dfff7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14c03438f55513e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cec958aeaff28e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "implicit-typing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35b296a1581b5dea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "implicit-typing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f8d0b80daf73786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ec7f685341b11c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "implicit-typing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b1ca8934e949da3",
+  "lastOpenFiles": [
+    "fundamentals/conversion.md",
+    "implicit-typing.md",
+    "fundamentals/data-types.md",
+    "fundamentals/basics.md",
+    "READMEd.md",
+    "fundamentals",
+    "c-sharp"
+  ]
+}
