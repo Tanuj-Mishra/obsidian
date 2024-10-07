@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0b598f5950ba3ad8",
+        "id": "3b5544101796d948",
         "type": "tabs",
         "children": [
           {
-            "id": "bce01dee9733a096",
+            "id": "361499b7d5a8d6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c-sharp/fundamentals/data-types.md",
+                "file": "system-design/software-architecture-in-application/1-getting-started/2-what-is-software-architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d3b550a8d299d2ac",
+            "id": "2f3800e9560e8226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c-sharp/fundamentals/conversion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b1ca8934e949da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c-sharp/fundamentals/implicit-typing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e46c9fec8296b8d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "READMEd.md",
+                "file": "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c-sharp/fundamentals/implicit-typing.md",
+                "file": "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c-sharp/fundamentals/implicit-typing.md",
+                "file": "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c-sharp/fundamentals/implicit-typing.md"
+                "file": "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md"
               }
             }
           }
@@ -185,9 +161,19 @@
   },
   "active": "731acc15e819a0f6",
   "lastOpenFiles": [
-    "c-sharp/fundamentals/conversion.md",
-    "c-sharp/fundamentals/implicit-typing.md",
+    "system-design/software-architecture-in-application/1-getting-started/2-what-is-software-architecture.md",
+    "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
+    "readme.md",
+    "system-design/software-architecture-in-application/1-getting-started/1-about-the-course.md",
+    "system-design/software-architecture-in-application/src/software-design-process.png",
+    "system-design/software-architecture-in-application/src/waterfall-model.png",
+    "system-design/software-architecture-in-application/src",
+    "system-design/software-architecture-in-application/1-getting-started",
+    "system-design/software-architecture-in-application",
+    "system-design",
     "c-sharp/fundamentals/data-types.md",
+    "c-sharp/fundamentals/implicit-typing.md",
+    "c-sharp/fundamentals/conversion.md",
     "c-sharp/fundamentals/basics.md",
     "READMEd.md",
     "c-sharp/fundamentals",

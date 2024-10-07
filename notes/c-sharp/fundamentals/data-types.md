@@ -10,8 +10,8 @@ ___
 - Predefined[built-in] - Primitive and Non-Primitive.  
 - User-defined.
 	- Primitive:
-		- byte, short, int
-		- decimal, double, float.
+		- byte, short, int[default].
+		- decimal, double[default], float.
 		- char
 		- bool
 	- Non-Primitive
