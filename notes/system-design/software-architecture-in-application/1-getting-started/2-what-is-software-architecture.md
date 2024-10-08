@@ -25,8 +25,6 @@
 - followed by the abstract specification step, in which those subsystems are specified. 
 - Interface design is the next step. In simple terms, the user interface is defined during this phase. We also discuss how different system components interact with each other and how external users interact with the system. 
 - The component-level design phase decomposes the subsystems into different components, followed by the data structures and algorithms design phase.
-
-
 ___
 ## Questions
 - what is difference between identifying and specifying the subsystem?

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5544101796d948",
+        "id": "5c4ccfdae2c1d8c8",
         "type": "tabs",
         "children": [
           {
-            "id": "361499b7d5a8d6c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system-design/software-architecture-in-application/1-getting-started/2-what-is-software-architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f3800e9560e8226",
+            "id": "60d0732f525cc582",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731acc15e819a0f6",
+  "active": "60d0732f525cc582",
   "lastOpenFiles": [
     "system-design/software-architecture-in-application/1-getting-started/2-what-is-software-architecture.md",
+    "system-design/software-architecture-in-application/1-getting-started/1-about-the-course.md",
+    "c-sharp/fundamentals/basics.md",
+    "methods.md",
+    "c-sharp/fundamentals/image/switch-statement.png",
+    "c-sharp/fundamentals/image/{6D30C1B6-01DD-45BE-9327-88F3A84E9006}.png",
+    "c-sharp/fundamentals/image",
+    "c-sharp/fundamentals/New folder",
+    "c-sharp/New folder",
+    "c-sharp/fundamentals/{5D04E17A-E965-44CD-BF95-7E611D73A29A}.png",
     "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
     "readme.md",
-    "system-design/software-architecture-in-application/1-getting-started/1-about-the-course.md",
     "system-design/software-architecture-in-application/src/software-design-process.png",
     "system-design/software-architecture-in-application/src/waterfall-model.png",
     "system-design/software-architecture-in-application/src",
@@ -174,7 +169,6 @@
     "c-sharp/fundamentals/data-types.md",
     "c-sharp/fundamentals/implicit-typing.md",
     "c-sharp/fundamentals/conversion.md",
-    "c-sharp/fundamentals/basics.md",
     "READMEd.md",
     "c-sharp/fundamentals",
     "c-sharp"
