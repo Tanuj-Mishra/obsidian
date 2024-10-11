@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "936413195bd293ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e847222009a662bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b4c9617be114a03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30739f77a997dc86",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c68c06dabb00b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731acc15e819a0f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1dd727957275e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "405f05e3dbcc8f62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88cc49f253dfff7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14c03438f55513e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cec958aeaff28e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35b296a1581b5dea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f8d0b80daf73786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ec7f685341b11c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b4c9617be114a03",
+  "lastOpenFiles": [
+    "c-sharp/fundamentals/useful-visual-studio-extensions.md",
+    "running.md",
+    "c-sharp/fundamentals/methods.md",
+    "c-sharp/fundamentals/implicit-typing.md",
+    "c-sharp/fundamentals/basics.md",
+    "c-sharp/fundamentals/conversion.md",
+    "c-sharp/fundamentals/image/method-being-called-from-other-file.png",
+    "c-sharp/fundamentals/image/{62EF8CB8-AFFA-4B9D-BD26-D828DDD8A25B}.png",
+    "c-sharp/fundamentals/image/{08743E93-D2C9-4B86-B076-9B88D45C0596}.png",
+    "system-design/software-architecture-in-application/2-the-architecture-meta-frame/1-introduction-to-architecture-meta-frame.md",
+    "system-design/software-architecture-in-application/2-the-architecture-meta-frame/2-quality-attributes,-requirements,-and architectural-styles.md",
+    "system-design/software-architecture-in-application/src/the-architecture-meta-frame.png",
+    "system-design/software-architecture-in-application/src/the-architecture-meta-framework.png",
+    "system-design/software-architecture-in-application/src/{6945AABD-A5F8-4BA4-A262-4841C627F17F}.png",
+    "system-design/software-architecture-in-application/1-getting-started/4-characteristics-of-modern-web-application.md",
+    "system-design/software-architecture-in-application/2-the-architecture-meta-frame",
+    "system-design/software-architecture-in-application/1-getting-started/3-software-architecture-in-agile-methods.md",
+    "system-design/software-architecture-in-application/src/iterative-model.png",
+    "c-sharp/fundamentals/image/iterative-model.png",
+    "system-design/software-architecture-in-application/1-getting-started/2-what-is-software-architecture.md",
+    "system-design/software-architecture-in-application/1-getting-started/1-about-the-course.md",
+    "c-sharp/fundamentals/image/switch-statement.png",
+    "c-sharp/fundamentals/image/{6D30C1B6-01DD-45BE-9327-88F3A84E9006}.png",
+    "c-sharp/fundamentals/image",
+    "c-sharp/fundamentals/New folder",
+    "c-sharp/New folder",
+    "readme.md",
+    "system-design/software-architecture-in-application/src",
+    "system-design/software-architecture-in-application/1-getting-started",
+    "system-design/software-architecture-in-application",
+    "system-design",
+    "c-sharp/fundamentals/data-types.md",
+    "READMEd.md",
+    "c-sharp/fundamentals",
+    "c-sharp"
+  ]
+}
