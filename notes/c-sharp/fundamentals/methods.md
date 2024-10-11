@@ -38,9 +38,9 @@ public int AddTwoNumbers(int a, int b)
 	- <class_name>.<method_name>
 - use of **using**
 	- namespace image is required, where the class resides in.
-- Example
+- Example ^f97a0d
 	- ![[method-being-called-from-other-file.png]]
-
+	- Although the name of application is **console-app-1**, but the name of namespace is **console_app_1** why?
 
 
 
@@ -80,5 +80,8 @@ public int AddTwoNumbers(int a, int b)
 - in which cases fat operator can be used[expression-bodied members]
 	- method having multiple lines.
 	- method returning void.
+- how the name of namespace is determined, example [[#^f97a0d]].
 - 
+### main method
+
 ### running
