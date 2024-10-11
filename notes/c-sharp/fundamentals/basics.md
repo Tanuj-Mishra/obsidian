@@ -1,5 +1,7 @@
 #string
 
+- Code refactoring: reorganizing existing code, without changing the functionality.
+
 - if
 ```c#
 if(a = 100) 

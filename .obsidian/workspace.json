@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "notes/c-sharp/fundamentals/methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "notes/c-sharp/fundamentals/methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "notes/c-sharp/fundamentals/methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md"
+                "file": "notes/c-sharp/fundamentals/methods.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1edfb3f8cb0793d4",
+  "active": "a6664f42e1bcdc86",
   "lastOpenFiles": [
+    "notes/c-sharp/running.md",
+    "notes/c-sharp/fundamentals/methods.md",
+    "notes/c-sharp/fundamentals/basics.md",
+    "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/conversion.md"
   ]
 }
