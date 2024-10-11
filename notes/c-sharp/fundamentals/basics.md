@@ -19,3 +19,10 @@ ___
 - they behave differently as compared to normal c# variables.
 
 
+
+## string interpolation
+```c#
+int a = 2;
+int b = 3;
+Console.WriteLine($"Sum: {a+b}");
+```
