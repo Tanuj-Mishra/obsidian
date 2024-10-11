@@ -11,8 +11,12 @@
             "id": "1edfb3f8cb0793d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/c-sharp/fundamentals/data-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/c-sharp/fundamentals/data-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/c-sharp/fundamentals/data-types.md"
+              }
             }
           }
         ]
@@ -139,5 +147,7 @@
     }
   },
   "active": "1edfb3f8cb0793d4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "notes/c-sharp/fundamentals/conversion.md"
+  ]
 }
