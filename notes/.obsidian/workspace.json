@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74d1f26a3eb3265b",
+        "id": "e847222009a662bc",
         "type": "tabs",
         "children": [
           {
-            "id": "80aa4e5eada4dfbf",
+            "id": "0b4c9617be114a03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731acc15e819a0f6",
+  "active": "0b4c9617be114a03",
   "lastOpenFiles": [
-    "running.md",
     "c-sharp/fundamentals/useful-visual-studio-extensions.md",
+    "running.md",
     "c-sharp/fundamentals/methods.md",
     "c-sharp/fundamentals/implicit-typing.md",
     "c-sharp/fundamentals/basics.md",
