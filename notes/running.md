@@ -3,11 +3,10 @@
 
 
 ___
-### Calling a method present in some other file
-- that method needed to be **public**.
-- calling method
-	- <class_name>.<method_name>
-- use of **using**
-	- namespace image is required, where the class resides in.
-- Example
-	- ![[method-being-called-from-other-file.png]]
+### calling the correct method
+- to call a method correctly, following stuff are required.
+	- method name.
+	- parameter type and arguments.
+	- number of parameters.
+
+### other

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a9766e17c352f366",
+        "id": "74d1f26a3eb3265b",
         "type": "tabs",
         "children": [
           {
-            "id": "54f43241688a13e7",
+            "id": "80aa4e5eada4dfbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c-sharp/fundamentals/conversion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f39affc82177418d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c-sharp/fundamentals/methods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c-sharp/fundamentals/methods.md",
+                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c-sharp/fundamentals/methods.md",
+                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c-sharp/fundamentals/methods.md"
+                "file": "c-sharp/fundamentals/useful-visual-studio-extensions.md"
               }
             }
           }
@@ -159,15 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f39affc82177418d",
+  "active": "731acc15e819a0f6",
   "lastOpenFiles": [
     "running.md",
+    "c-sharp/fundamentals/useful-visual-studio-extensions.md",
+    "c-sharp/fundamentals/methods.md",
+    "c-sharp/fundamentals/implicit-typing.md",
+    "c-sharp/fundamentals/basics.md",
+    "c-sharp/fundamentals/conversion.md",
     "c-sharp/fundamentals/image/method-being-called-from-other-file.png",
     "c-sharp/fundamentals/image/{62EF8CB8-AFFA-4B9D-BD26-D828DDD8A25B}.png",
     "c-sharp/fundamentals/image/{08743E93-D2C9-4B86-B076-9B88D45C0596}.png",
-    "c-sharp/fundamentals/conversion.md",
-    "c-sharp/fundamentals/basics.md",
-    "c-sharp/fundamentals/methods.md",
     "system-design/software-architecture-in-application/2-the-architecture-meta-frame/1-introduction-to-architecture-meta-frame.md",
     "system-design/software-architecture-in-application/2-the-architecture-meta-frame/2-quality-attributes,-requirements,-and architectural-styles.md",
     "system-design/software-architecture-in-application/src/the-architecture-meta-frame.png",
@@ -191,7 +176,6 @@
     "system-design/software-architecture-in-application",
     "system-design",
     "c-sharp/fundamentals/data-types.md",
-    "c-sharp/fundamentals/implicit-typing.md",
     "READMEd.md",
     "c-sharp/fundamentals",
     "c-sharp"
