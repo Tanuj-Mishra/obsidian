@@ -22,7 +22,7 @@ ___
 ## Default values
 - number, float -> 0.
 - char -> null
-- boolean -> false.
+- bool -> false.
 ## Members on primitive types 
 fields of int and char.
 ```c#

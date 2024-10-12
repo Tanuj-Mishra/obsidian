@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/system-design/software-architecture-in-application/running.md",
+                "file": "notes/c-sharp/fundamentals/data-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/system-design/software-architecture-in-application/running.md",
+                "file": "notes/c-sharp/fundamentals/data-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/system-design/software-architecture-in-application/running.md"
+                "file": "notes/c-sharp/fundamentals/data-types.md"
               }
             }
           }
@@ -170,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50b4675d3c5c6557",
+  "active": "d42adbdf9a1119ec",
   "lastOpenFiles": [
+    "notes/system-design/software-architecture-in-application/running.md",
     "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/basics.md",
     "notes/c-sharp/fundamentals/methods.md",
     "notes/c-sharp/running.md",
-    "notes/system-design/software-architecture-in-application/running.md",
     "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
     "notes/system-design/software-architecture-in-application/src/layered-architecture-diagram.png",
     "notes/system-design/software-architecture-in-application/src/Screenshot 2024-10-12 190310.png",
