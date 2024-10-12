@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/c-sharp/fundamentals/data-types.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "d42adbdf9a1119ec",
   "lastOpenFiles": [
-    "notes/system-design/software-architecture-in-application/running.md",
     "notes/c-sharp/fundamentals/data-types.md",
+    "notes/system-design/software-architecture-in-application/running.md",
     "notes/c-sharp/fundamentals/basics.md",
     "notes/c-sharp/fundamentals/methods.md",
     "notes/c-sharp/running.md",
