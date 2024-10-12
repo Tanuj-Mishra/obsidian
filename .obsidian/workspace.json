@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "214a691a8093336a",
+        "id": "b26e9f1911101c11",
         "type": "tabs",
         "children": [
           {
-            "id": "30d152ddea4efc44",
+            "id": "50b4675d3c5c6557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/running.md",
+                "file": "notes/system-design/software-architecture-in-application/running.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55a91e1f49be1ad9",
+            "id": "d42adbdf9a1119ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md",
+                "file": "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d3968d4e3ad3d6ef",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md",
+                "file": "notes/system-design/software-architecture-in-application/running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md",
+                "file": "notes/system-design/software-architecture-in-application/running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md"
+                "file": "notes/system-design/software-architecture-in-application/running.md"
               }
             }
           }
@@ -160,8 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6664f42e1bcdc86",
+  "active": "50b4675d3c5c6557",
   "lastOpenFiles": [
+    "notes/system-design/software-architecture-in-application/src/layered-architecture-diagram.png",
+    "notes/system-design/software-architecture-in-application/src/Screenshot 2024-10-12 190310.png",
+    "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
+    "notes/system-design/software-architecture-in-application/running.md",
+    "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies",
+    "notes/system-design/software-architecture-in-application/2-the-architecture-meta-frame/3-application-types-and-architectural-frame.md",
+    "notes/system-design/software-architecture-in-application/2-the-architecture-meta-frame/2-quality-attributes,-requirements,-and architectural-styles.md",
+    "notes/readme.md",
+    "notes/READMEd.md",
     "notes/c-sharp/running.md",
     "notes/c-sharp/fundamentals/string.md",
     "notes/c-sharp/fundamentals/history.md",

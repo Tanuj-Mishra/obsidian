@@ -1,3 +1,6 @@
 
-course offered by educative.io, can be found here https://www.educative.io/courses/software-architecture-in-applications.
-
+- Distributed Systems for Practitioners
+- Grokking the Product Architecture Design Interview
+- Grokking the Low Level Design Interview Using OOD Principles
+- Grokking the Modern System Design Interview
+- 
