@@ -82,6 +82,38 @@ public int AddTwoNumbers(int a, int b)
 	- method returning void.
 - how the name of namespace is determined, example [[#^f97a0d]].
 - 
-### main method
+### parsing
+- converting string to other datatypes.
+
+| Feature            | `Parse` Method                                                                                                         | `TryParse` Method                                                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Purpose            | Converts a string to a specified type, throwing an exception if the conversion fails.                                  | Attempts to convert a string to a specified type without throwing an exception if the conversion fails.                         |
+| Exception Handling | Throws an exception (`FormatException`, `ArgumentNullException`, `OverflowException`) if the input is invalid or null. | Does not throw an exception. Instead, returns `true` or `false` to indicate success or failure.                                 |
+| Return Type        | Returns the parsed value directly (e.g., `int`, `double`).                                                             | Returns a `bool` indicating success or failure and outputs the parsed value using an `out` parameter                            |
+| Use Case           | Useful when you are sure that the input is valid and expect it to succeed.                                             | Useful when you are uncertain about the input’s validity and want to handle the parsing result without dealing with exceptions. |
+| Performance        | Slightly slower if the input is invalid because of exception handling overhead.                                        | More efficient when dealing with invalid inputs, as it avoids exception overhead.                                               |
+```c#
+
+Console.WriteLine("Provide integer input: ");
+string ip = Console.ReadLine();
+
+try
+{
+	int a = int.Parse(ip);
+	Console.WriteLine($"Correct input: {a}");
+}
+catch (Exception ex) { 
+	Console.WriteLine(ex.Message);
+}
+
+int b;
+bool isInputValid = int.TryParse(ip,out b);
+if (isInputValid) 
+	Console.WriteLine($"Correct input: {b}");
+else 
+	Console.WriteLine("InCorrect input");
+	
+```
+
 
 ### running

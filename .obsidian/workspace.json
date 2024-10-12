@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
+                "file": "notes/c-sharp/fundamentals/data-types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5160f269bd9fff33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/c-sharp/running.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,23 +172,23 @@
   },
   "active": "50b4675d3c5c6557",
   "lastOpenFiles": [
+    "notes/c-sharp/fundamentals/data-types.md",
+    "notes/c-sharp/fundamentals/basics.md",
+    "notes/c-sharp/fundamentals/methods.md",
+    "notes/c-sharp/running.md",
+    "notes/system-design/software-architecture-in-application/running.md",
+    "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
     "notes/system-design/software-architecture-in-application/src/layered-architecture-diagram.png",
     "notes/system-design/software-architecture-in-application/src/Screenshot 2024-10-12 190310.png",
-    "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
-    "notes/system-design/software-architecture-in-application/running.md",
     "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies",
     "notes/system-design/software-architecture-in-application/2-the-architecture-meta-frame/3-application-types-and-architectural-frame.md",
     "notes/system-design/software-architecture-in-application/2-the-architecture-meta-frame/2-quality-attributes,-requirements,-and architectural-styles.md",
     "notes/readme.md",
     "notes/READMEd.md",
-    "notes/c-sharp/running.md",
     "notes/c-sharp/fundamentals/string.md",
     "notes/c-sharp/fundamentals/history.md",
-    "notes/c-sharp/fundamentals/methods.md",
     "notes/c-sharp/fundamentals/image/method-being-called-from-other-file.png",
     "^f97a0d.md",
-    "notes/c-sharp/fundamentals/basics.md",
-    "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/conversion.md"
   ]
 }

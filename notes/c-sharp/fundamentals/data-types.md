@@ -17,6 +17,7 @@ ___
 	- Non-Primitive
 		- object
 		- string
+- Note: ```bool``` and ```Boolean```, both are present but we are using _bool_ till now.
 
 ## Default values
 - number, float -> 0.
