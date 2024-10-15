@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/running.md",
+                "file": "notes/c-sharp/fundamentals/string.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/c-sharp/fundamentals/string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/c-sharp/fundamentals/string.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/c-sharp/fundamentals/string.md"
               }
             }
           }
@@ -171,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42adbdf9a1119ec",
+  "active": "5160f269bd9fff33",
   "lastOpenFiles": [
-    "notes/c-sharp/fundamentals/data-types.md",
+    "notes/c-sharp/running.md",
     "notes/system-design/software-architecture-in-application/running.md",
+    "README.md",
+    "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/basics.md",
     "notes/c-sharp/fundamentals/methods.md",
-    "notes/c-sharp/running.md",
     "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",
     "notes/system-design/software-architecture-in-application/src/layered-architecture-diagram.png",
     "notes/system-design/software-architecture-in-application/src/Screenshot 2024-10-12 190310.png",
