@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab27b897b2d9ff4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/c-sharp/fundamentals/class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md",
+                "file": "notes/c-sharp/fundamentals/class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md",
+                "file": "notes/c-sharp/fundamentals/class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/c-sharp/fundamentals/string.md"
+                "file": "notes/c-sharp/fundamentals/class.md"
               }
             }
           }
@@ -171,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5160f269bd9fff33",
+  "active": "a6664f42e1bcdc86",
   "lastOpenFiles": [
+    "notes/c-sharp/fundamentals/string.md",
+    "notes/c-sharp/fundamentals/class.md",
     "notes/c-sharp/running.md",
     "notes/system-design/software-architecture-in-application/running.md",
     "README.md",
@@ -187,7 +201,6 @@
     "notes/system-design/software-architecture-in-application/2-the-architecture-meta-frame/2-quality-attributes,-requirements,-and architectural-styles.md",
     "notes/readme.md",
     "notes/READMEd.md",
-    "notes/c-sharp/fundamentals/string.md",
     "notes/c-sharp/fundamentals/history.md",
     "notes/c-sharp/fundamentals/image/method-being-called-from-other-file.png",
     "^f97a0d.md",
