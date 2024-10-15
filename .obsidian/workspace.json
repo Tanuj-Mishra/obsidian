@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/c-sharp/fundamentals/class.md",
+                "file": "notes/c-sharp/fundamentals/history.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/c-sharp/fundamentals/class.md",
+                "file": "notes/c-sharp/fundamentals/history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/c-sharp/fundamentals/class.md",
+                "file": "notes/c-sharp/fundamentals/history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/c-sharp/fundamentals/class.md"
+                "file": "notes/c-sharp/fundamentals/history.md"
               }
             }
           }
@@ -183,14 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6664f42e1bcdc86",
+  "active": "ab27b897b2d9ff4d",
   "lastOpenFiles": [
-    "notes/c-sharp/fundamentals/string.md",
+    "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/class.md",
+    "notes/c-sharp/fundamentals/string.md",
     "notes/c-sharp/running.md",
     "notes/system-design/software-architecture-in-application/running.md",
     "README.md",
-    "notes/c-sharp/fundamentals/data-types.md",
     "notes/c-sharp/fundamentals/basics.md",
     "notes/c-sharp/fundamentals/methods.md",
     "notes/system-design/software-architecture-in-application/3-architectural-styles-and-strategies/1-types-of-architecture-patterns.md",

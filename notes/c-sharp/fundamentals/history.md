@@ -1,4 +1,4 @@
-
+- record was introduced in c#9.
 ## traditional approach
 - method are wrapped inside class, which itself was nested in namespace.
 

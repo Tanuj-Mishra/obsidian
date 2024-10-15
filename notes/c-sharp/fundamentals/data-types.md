@@ -14,11 +14,14 @@ ___
 		- decimal, double[default], float.
 		- char
 		- bool
-	- Non-Primitive
+	- Non-Primitive/Custom type
 		- object
 		- string
 - Note: ```bool``` and ```Boolean```, both are present but we are using _bool_ till now.
-
+- Custom type
+	- class
+	- struct
+	- record -> internally implemented as class only.
 ## Default values
 - number, float -> 0.
 - char -> null
